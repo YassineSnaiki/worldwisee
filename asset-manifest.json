@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/worldwisee/static/css/main.7d968076.css",
-    "main.js": "/worldwisee/static/js/main.6ddfdea3.js",
+    "main.js": "/worldwisee/static/js/main.4b0f9351.js",
     "static/media/bg.jpg": "/worldwisee/static/media/bg.3e2be86d98db926ce9f0.jpg",
     "index.html": "/worldwisee/index.html",
     "main.7d968076.css.map": "/worldwisee/static/css/main.7d968076.css.map",
-    "main.6ddfdea3.js.map": "/worldwisee/static/js/main.6ddfdea3.js.map"
+    "main.4b0f9351.js.map": "/worldwisee/static/js/main.4b0f9351.js.map"
   },
   "entrypoints": [
     "static/css/main.7d968076.css",
-    "static/js/main.6ddfdea3.js"
+    "static/js/main.4b0f9351.js"
   ]
 }
