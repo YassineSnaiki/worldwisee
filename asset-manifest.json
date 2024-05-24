@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/worldwisee/static/css/main.7d968076.css",
+    "main.js": "/worldwisee/static/js/main.686c8bb5.js",
+    "static/media/bg.jpg": "/worldwisee/static/media/bg.3e2be86d98db926ce9f0.jpg",
+    "index.html": "/worldwisee/index.html",
+    "main.7d968076.css.map": "/worldwisee/static/css/main.7d968076.css.map",
+    "main.686c8bb5.js.map": "/worldwisee/static/js/main.686c8bb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d968076.css",
+    "static/js/main.686c8bb5.js"
+  ]
+}
